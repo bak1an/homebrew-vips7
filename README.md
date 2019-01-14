@@ -1,2 +1,2 @@
 # homebrew-vips7
-https://github.com/jcupitt/libvips @ 7 tap for homebrew
+https://github.com/libvips/libvips/tree/7.42 tap for homebrew
