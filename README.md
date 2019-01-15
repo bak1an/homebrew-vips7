@@ -2,7 +2,7 @@
 
 Builds https://github.com/libvips/libvips/tree/7.42
 
-For the ones who love legacy stuff.
+For ones who love legacy stuff.
 
 Usage:
 
