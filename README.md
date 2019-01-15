@@ -1,5 +1,6 @@
-# homebrew-vips7
-https://github.com/libvips/libvips/tree/7.42 tap for homebrew
+# libvips 7 homebrew tap
+
+Builds https://github.com/libvips/libvips/tree/7.42
 
 For the ones who love legacy stuff.
 
