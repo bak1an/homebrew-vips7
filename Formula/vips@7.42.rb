@@ -1,8 +1,8 @@
 class VipsAT742 < Formula
   desc "Image processing library"
   homepage "https://github.com/libvips/libvips"
-  url "https://github.com/libvips/libvips/archive/7.42.zip"
-  sha256 "97c4bb8b8f75673d7fa0441aec660eed403bc991b4e3a04852ebbcb587ee4ccb"
+  url "https://github.com/thehecht/libvips/archive/7.42.zip"
+  sha256 "d884a83f183752d9731a36fa645a528f348adcf05f01b8a0cec0d351796086c1"
 
   fails_with :clang
 
